@@ -1,2 +1,2 @@
 # msjewellers-web
-official website of msjeellers
+official website of msjewellers
